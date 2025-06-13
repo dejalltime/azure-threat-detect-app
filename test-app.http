@@ -1,0 +1,17 @@
+### Successful login
+POST https://mart1449-threat-app-hpcyf5b6bfe2gsbd.canadacentral-01.azurewebsites.net/login
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password": "password123"
+}
+
+### Failed login
+POST https://mart1449-threat-app-hpcyf5b6bfe2gsbd.canadacentral-01.azurewebsites.net/login
+Content-Type: application/json
+
+{
+  "username": "hacker",
+  "password": "wrongpassword"
+}
