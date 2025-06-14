@@ -75,5 +75,5 @@ In a real-world scenario, I would improve detection by:
 
 ## Demo Video
 
-Watch a 5-minute walkthrough showing the app, log generation, KQL, and alert setup:  
+Watch a 6-minute walkthrough showing the app, log generation, KQL, and alert setup:  
 [YouTube Demo Video](https://youtu.be/aCGStTRxtHc)
